@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.go": "go",
+        "*.java": "java",
+        "*.jsx": "javascriptreact",
+        "limits": "c",
+        "utility": "c"
+    }
+}
