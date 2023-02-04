@@ -5,6 +5,8 @@
         "*.java": "java",
         "*.jsx": "javascriptreact",
         "limits": "c",
-        "utility": "c"
+        "utility": "c",
+        "conio.h": "c",
+        "math.h": "c"
     }
 }
